@@ -1,0 +1,19 @@
+Data Scientist Specialist
+Osasco
+Nosso Modo de Fazer no Time:
+Transforme sua carreira com o iFood! Somos líderes em delivery online de comida na América Latina, conectando milhares de restaurantes a milhões de consumidores todos os dias. Junte-se a nós e faça parte de uma equipe que está sempre à frente com tecnologia de ponta e inovação constante.
+Seu Cardápio Diário:
+    Desenvolver e implementar soluções de recomendação dentro do contexto de food delivery, escolhendo as melhores listas de pratos e restaurantes e a ordem desse conteúdo, tentando ao máximo conectar a oferta do iFood com a demanda dos nossos clientes.
+    Colaborar com as equipes de engenharia e produto para desenhar soluções viáveis e escaláveis, garantindo a eficiência e escalabilidade do sistema de recomendação.
+    Manter comunicação eficaz com stakeholders, traduzindo necessidades técnicas para o contexto de negócios e assegurando que as soluções propostas atendam aos objetivos empresariais.
+    Contribuir para a mentoria de pessoas mais juniores, promovendo o desenvolvimento técnico e profissional dentro da equipe.
+Ingredientes Que Buscamos:
+
+    Habilidades sólidas em Python, SQL, Pyspark e Machine Learning, com experiência em ferramentas da AWS, como Sagemaker e Airflow.
+    Capacidade de comunicação clara e eficaz, com habilidade para interagir e traduzir questões técnicas para diferentes níveis hierárquicos e stakeholders.
+    Perfil proativo, com boa leitura do cenário empresarial e capacidade de adaptação em um ambiente dinâmico e colaborativo.
+Para Realçar o Sabor:
+    Experiência com anúncios e conhecimentos em IA generativa.
+    Habilidade para lidar com múltiplas tarefas e prioridades, mantendo a eficiência e qualidade das entregas.
+    Interesse em contribuir para o fluxo de trabalho eficiente e a busca por feedbacks construtivos.
+Buscamos uma pessoa apaixonada por tecnologia e inovação, que esteja sempre em busca de novos aprendizados e que goste de desafios. Se você se identifica com este perfil, adoraríamos conhecer você!
